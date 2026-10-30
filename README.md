@@ -4,6 +4,10 @@
 
 > **Status: in development.** This repository is a showcase. The source code is private and is not published here. Everything shown below uses synthetic demo data.
 
+![NEIT mask surrounded by automation, database, cloud and reporting icons](docs/cover.webp)
+
+<sub>Cover: brand illustration, not a screenshot of the panel.</sub>
+
 By [NEIT](https://nivyxa.com) (Nivyxa), digital creative studio. Category: automation.
 
 ## What it does
